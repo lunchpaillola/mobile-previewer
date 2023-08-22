@@ -45,7 +45,8 @@
     "redux": "^3.7.2",
     "redux-form": "^7.1.2",
     "rn-fetch-blob": "0.11.2",
-    "react-native-geolocation-service": "5.2.0"
+    "react-native-geolocation-service": "5.2.0",
+    "video-chat-by-daily-early-access": "../video-chat-by-daily"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
